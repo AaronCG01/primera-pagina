@@ -1,0 +1,36 @@
+h1{
+ color: #08459F;
+ font-size: 3rem;
+ background: yellowgreen;
+ border: 5px solid #904907;
+}
+
+table{
+ background: skyblue;
+}
+
+td{
+ width: 30%;
+}
+
+body{
+ background: #FCD5B2;
+ font-family: arial, helvetica, sans-serif;
+}
+
+a{
+ font-size: 1.5rem;
+}
+
+p{
+ color: #01040D;
+ font-size: 1.2rem;
+}
+
+textarea{
+ border: 3px solid #440879;
+}
+
+input{
+ border: 3px solid #440879;
+}
